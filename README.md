@@ -1,6 +1,6 @@
 # IAS-Machine
 
-
+![IAS machine architecture](IAS.png)
 
 - The program "IAS_Machine.py" is an implementation of the IAS computer using Python 3.9.1 as the programming language. 
 - The programming is done on the basis of “Fetch and Execute” method. 
